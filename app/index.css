@@ -101,6 +101,19 @@ li {
   border-radius: 50%;
 }
 
+.reset {
+  border: none;
+  background: trasparent;
+  color: #d0021b;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.reset:hover {
+  cursor: pointer;
+}
+
 .active {
   font-weight: bold;
 }
